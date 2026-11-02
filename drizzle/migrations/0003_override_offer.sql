@@ -1,0 +1,1 @@
+ALTER TABLE public.goal_steps ADD COLUMN override_offered boolean NOT NULL DEFAULT false;

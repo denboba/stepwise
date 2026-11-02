@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793617292705,
+      "tag": "0000_stepwise_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793618587232,
+      "tag": "0001_photo_proof_and_timers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793618885057,
+      "tag": "0002_adaptive_replanning",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793620292863,
+      "tag": "0003_override_offer",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1793622361597,
+      "tag": "0004_case_frame_data",
+      "breakpoints": true
+    }
+  ]
+}
